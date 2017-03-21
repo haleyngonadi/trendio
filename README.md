@@ -1,2 +1,2 @@
 # trendio
-# music for the rest of us.
+* music for the rest of us.
