@@ -831,6 +831,15 @@ section.more-stories {
     left: 0;
 }
 
+.gallery-active .galleries img {
+    max-height: 100%;
+}
+
+.gallery-active .inner-gallery {
+    max-width: 70%;
+    position: relative;
+}
+
 .gallery-active header {
     display: none;
 }
